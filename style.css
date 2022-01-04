@@ -4,7 +4,7 @@ h1{font-size: 50px;}
 .misti1{color: cyan;}
 .misti2{color: mediumslateblue;}
 .lekhar-rong{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
-section{display:flex;
+.flexible-container{display:flex;
 margin-bottom: 100px;}
 .half-width{width: 50%; padding: 2%;}
 .half-width img{width:70%;}
@@ -23,3 +23,22 @@ margin-bottom: 100px;}
         background-position: right;
 
     }
+
+    .exp{
+        box-shadow: 10px 10px 40px rgb(63, 214, 207); 
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5px;
+        padding-left: 2%;
+        border-radius: 10px;
+
+    }
+    .kukur-biral{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+    }
+
+    #borderek{border-image: ;}
+
+
+    
