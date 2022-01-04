@@ -1,9 +1,15 @@
-body{font-family: 'Shizuru', cursive;}
+
 h1{font-size: 50px;}
 .misti{color: coral;}
 .misti1{color: cyan;}
 .misti2{color: mediumslateblue;}
 .lekhar-rong{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 section{display:flex;}
-.half-width{width: 50%; padding: 5%;}
-.half-width img{}
+.half-width{width: 50%; padding: 2%;}
+.half-width img{width:70%;}
+.link-button{text-decoration: none;
+    padding: 10px 30px; 
+    background-image: linear-gradient( rgb(235, 168, 129),rgb(126, 211, 226) );
+    border-radius: 7px;
+
+}
