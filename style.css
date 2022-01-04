@@ -1,4 +1,4 @@
-
+body{margin: 0px;}
 h1{font-size: 50px;}
 .misti{color: coral;}
 .misti1{color: cyan;}
@@ -11,5 +11,8 @@ section{display:flex;}
     padding: 10px 30px; 
     background-image: linear-gradient( rgb(235, 168, 129),rgb(126, 211, 226) );
     border-radius: 7px;
+    color: white;
+    font-weight: 700;}
 
-}
+    .background-image{background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;}
