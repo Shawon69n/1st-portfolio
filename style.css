@@ -38,7 +38,17 @@ margin-bottom: 100px;}
         background-repeat: no-repeat;
     }
 
-    #borderek{border-image: ;}
+    #borderek{
+        border-left: 7px solid ;
+        border-image: blue,cyan ;
+    border-image-slice: 1;}
+    #borderdui{
+        border-left: 7px solid ;
+        border-image: rgb(227, 14, 235),rgb(188, 255, 62) ;
+    border-image-slice: 1;}
+
+    footer p{text-align:center}
+
 
 
     
