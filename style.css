@@ -4,15 +4,22 @@ h1{font-size: 50px;}
 .misti1{color: cyan;}
 .misti2{color: mediumslateblue;}
 .lekhar-rong{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
-section{display:flex;}
+section{display:flex;
+margin-bottom: 100px;}
 .half-width{width: 50%; padding: 2%;}
 .half-width img{width:70%;}
 .link-button{text-decoration: none;
     padding: 10px 30px; 
-    background-image: linear-gradient( rgb(235, 168, 129),rgb(126, 211, 226) );
+    background-image: linear-gradient( rgb(221, 108, 43),rgb(126, 211, 226) );
     border-radius: 7px;
-    color: white;
+    color:rgb(0, 0, 0);
     font-weight: 700;}
 
     .background-image{background-image: url(images/top-banner.png);
     background-repeat: no-repeat;}
+
+    .dream-big{background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+
+    }
